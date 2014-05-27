@@ -65,8 +65,4 @@ var SApplication = function(sapi) {
 
         $('.appdata').show();
     }
-
-    function printObject(printObject) {
-
-    }
 }
